@@ -1,6 +1,6 @@
 {
   "name": "@nodejavascript/array-key-sum",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Given an array return the sum on a numeric object key ",
   "main": "index.js",
   "scripts": {
